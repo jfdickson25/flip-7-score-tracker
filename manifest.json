@@ -4,9 +4,9 @@
   "description": "App for tracking scores in Flip 7",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#93a590",
-  "background_color": "#93a590",
-  "images": [
+  "theme_color": "#08bbb8",
+  "background_color": "#08bbb8",
+  "icons": [
     {
       "src": "/images/icons/Flip 7 48x48.png",
       "sizes": "48x48",
