@@ -1,0 +1,47 @@
+{
+  "short_name": "Flip 7 Score Tracker",
+  "name": "Flip 7 Score Tracker",
+  "description": "App for tracking scores in Flip 7",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#08bbb8",
+  "background_color": "#08bbb8",
+  "icons": [
+    {
+      "src": "/images/icons/Flip 7 48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/Flip 7 72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/Flip 7 96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/Flip 7 144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/Flip 7 192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/Flip 7 256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/Flip 7 512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait"
+}
