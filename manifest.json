@@ -2,7 +2,7 @@
   "short_name": "Flip 7 Score Tracker",
   "name": "Flip 7 Score Tracker",
   "description": "App for tracking scores in Flip 7",
-  "start_url": ".",
+  "start_url": "/flip-7-score-tracker",
   "display": "standalone",
   "theme_color": "#08bbb8",
   "background_color": "#08bbb8",
